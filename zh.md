@@ -1,5 +1,5 @@
 # rem-help
-快速将rem添加到您的项目
+`version 1.0.0` 快速将rem添加到您的项目
 
 ## 多语言
 <a href="https://github.com/Jon-Millent/rem-help/blob/master/README.md">EN</a>
