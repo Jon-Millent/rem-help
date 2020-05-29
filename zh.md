@@ -24,6 +24,16 @@ rem.addRem()
     ...
 </script>
 ```
+### cdn
+
+```html
+@version x.x.x
+<script src="https://cdn.jsdelivr.net/npm/rem-help@x.x.x/rem-help.min.jss"></script>
+```
+```html
+@latest
+<script src="https://cdn.jsdelivr.net/npm/rem-help@1.0.1/rem-help.min.jss"></script>
+```
 
 ## Api
 ### 配置
