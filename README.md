@@ -1,5 +1,5 @@
 # rem-help
-quickly add rem to your project
+`version 1.0.0` quickly add rem to your project
 
 ## Translation
 <a href="https://github.com/Jon-Millent/rem-help/blob/master/zh.md">中文</a>
