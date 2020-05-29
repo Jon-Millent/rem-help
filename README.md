@@ -35,7 +35,7 @@ let rem = new RemHelp({
   minWidth: 320, // minimum response width
   auto: true,  // whether to respond to the Resize event
   accuracy: 3, // how many decimal places are reserved
-  onResize: function(){ // resize function
+  onResize: function(event, remNumber){ // resize function
   }
 })
 ```

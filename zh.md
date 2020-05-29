@@ -35,7 +35,7 @@ let rem = new RemHelp({
   minWidth: 320, // 最小缩放比例
   auto: true,  // 是否自动响应窗口事件
   accuracy: 3, // rem保留小数点，默认3位
-  onResize: function(){ // resize 回调函数
+  onResize: function(event, remNumber){ // resize 回调函数
   }
 })
 ```
