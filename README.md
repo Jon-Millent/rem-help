@@ -28,11 +28,11 @@ rem.addRem()
 
 ```html
 @version x.x.x
-<script src="https://cdn.jsdelivr.net/npm/rem-help@x.x.x/rem-help.min.jss"></script>
+<script src="https://cdn.jsdelivr.net/npm/rem-help@x.x.x/rem-help.min.js"></script>
 ```
 ```html
 @latest
-<script src="https://cdn.jsdelivr.net/npm/rem-help@1.0.1/rem-help.min.jss"></script>
+<script src="https://cdn.jsdelivr.net/npm/rem-help@1.0.1/rem-help.min.js"></script>
 ```
 
 
