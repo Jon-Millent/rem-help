@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <script src="../rem-help.min.js"></script>
+    <script>
+        new RemHelp({
+            minWidth: 300,
+            maxWidth: 800,
+            scale: 10,
+            accuracy: 4,
+            onResize(){
+                console.log(arguments)
+            }
+        }).addRem()
+    </script>
+</body>
+</html>

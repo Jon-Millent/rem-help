@@ -39,14 +39,14 @@ class RemHelp {
         this.setVieBind = this.setView.bind(this)
         this.setVieBind()
 
-        if(this.config.auto) {
+        if(this.auto) {
             window.addEventListener(this.eventType, this.setVieBind)
         }
     }
 
     removeRem() {
         document.documentElement.style.fontSize = ''
-        if(this.config.auto) {
+        if(this.auto) {
             window.removeEventListener(this.eventType, this.setVieBind)
         }
     }

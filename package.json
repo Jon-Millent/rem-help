@@ -1,14 +1,16 @@
 {
   "name": "rem-help",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "quickly add rem to your project",
   "main": "rem-help.min.js",
   "dependencies": {},
   "devDependencies": {
+    "@babel/core": "^7.10.1",
     "@babel/preset-env": "^7.10.1",
     "rollup": "^2.11.2",
     "rollup-plugin-babel": "^4.4.0",
-    "rollup-plugin-node-resolve": "^5.2.0"
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-uglify": "^6.0.4"
   },
   "scripts": {
     "build:umd": "rollup --config build/rollup.umd.js"
