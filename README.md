@@ -2,7 +2,7 @@
 quickly add rem to your project
 
 ## Translation
-<a href="https://github.com/Jon-Millent/rem-help/blob/master/zh.MD">中文</a>
+<a href="https://github.com/Jon-Millent/rem-help/blob/master/zh.md">中文</a>
 
 ## Install
 `yarn add rem-help` & `npm install rem-help --save`
