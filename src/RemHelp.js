@@ -6,7 +6,7 @@ class RemHelp {
         this.setVieBind = null
 
         this.maxWidth = config.maxWidth || 750
-        this.minWidth = config.maxWidth || 320
+        this.minWidth = config.minWidth || 320
 
         if( typeof config.auto === 'boolean' ) {
             this.auto = config.auto
