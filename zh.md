@@ -5,7 +5,20 @@
 <a href="https://github.com/Jon-Millent/rem-help/blob/master/README.md">EN</a>
 
 ## 安装
+
 `yarn add rem-help` & `npm install rem-help --save`
+
+`或者`
+
+```html
+@version x.x.x
+<script src="https://cdn.jsdelivr.net/npm/rem-help@x.x.x/rem-help.min.js"></script>
+```
+```html
+@latest
+<script src="https://cdn.jsdelivr.net/npm/rem-help@1.0.1/rem-help.min.js"></script>
+```
+
 
 ## 使用
 ### import
