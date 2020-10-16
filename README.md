@@ -1,5 +1,7 @@
 # rem-help
-`version 1.0.1` quickly add rem to your project
+quickly add rem to your project
+
+![version](https://img.shields.io/github/package-json/v/jon-millent/rem-help.svg)
 
 ## Translation
 <a href="https://github.com/Jon-Millent/rem-help/blob/master/zh.md">中文</a>
